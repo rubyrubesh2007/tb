@@ -8,8 +8,8 @@ import sys
 
 init(autoreset=True)
 
-my_user = "iqtrader.evomatrix@gmail.com"  # YOUR IQOPTION USERNAME
-my_pass = "P@$$w0rd@2007"  # YOUR IQOPTION PASSWORD
+my_user = "######"  # YOUR IQOPTION USERNAME
+my_pass = "######"  # YOUR IQOPTION PASSWORD
 
 # Global variables for trading signals
 rsi_above_70 = False
