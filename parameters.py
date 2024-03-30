@@ -1,6 +1,6 @@
 #login details
-user = "iqtrader.evomatrix@gmail.com" #iq option email id
-passw = "P@$$w0rd@2007" #iq option email password
+user = "###################" #iq option email id
+passw = "##############" #iq option email password
 
 #assets for trading
 asset1 = "EURUSD" # Set your first asset
