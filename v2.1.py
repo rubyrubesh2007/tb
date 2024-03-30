@@ -11,8 +11,8 @@ import sys
 init(autoreset=True)
 
 #USER ACCOUNT CREDENTIALS AND LOG IN 
-my_user = "iqtrader.evomatrix@gmail.com"    #YOUR IQOPTION USERNAME
-my_pass = "P@$$w0rd@2007"         #YOUR IQOTION PASSWORD
+my_user = "##########"    #YOUR IQOPTION USERNAME
+my_pass = "##########"         #YOUR IQOTION PASSWORD
 
 # Global variables for trading signals
 bollinger_signal = 0
